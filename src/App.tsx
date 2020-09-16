@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <main className="websail">
-      Bookings
+    <main>
+      React SSR Template
     </main>
   );
 }
