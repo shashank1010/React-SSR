@@ -1,4 +1,9 @@
 {
+  "ts-node": {
+    "compilerOptions": {
+      "module": "commonjs"
+    }
+  },
   "compilerOptions": {
     "target": "es5",
     "lib": [
@@ -20,6 +25,7 @@
     "jsx": "react"
   },
   "include": [
-    "src"
+    "src",
+    "server"
   ]
 }
