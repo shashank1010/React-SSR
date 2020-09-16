@@ -6,11 +6,6 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
-body .websail {
-    padding: 1rem;
-    box-sizing: border-box;
-}
   
 code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
